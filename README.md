@@ -11,4 +11,4 @@
 * httpcore-4.4.12.jar
 * json-20140107.jar
 
-![Data Conversion](https://github.com/incubated-geek-cc/DrugBankAPICrawler/tree/main/img)
+![Data Conversion](https://github.com/incubated-geek-cc/DrugBankAPICrawler/raw/main/img/ddi.png)

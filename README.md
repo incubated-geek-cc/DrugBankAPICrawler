@@ -2,7 +2,7 @@
 ### Demonstrating how to retrieve drug interaction data from [the DrugBank](https://go.drugbank.com/drugs/)
 
 ### Article
-#### Link: https://geek-cc.medium.com/import-use-npm-modules-in-the-browser-easily-e70d6c84fc31
+#### Link: https://geek-cc.medium.com/how-you-can-crawl-the-list-of-drug-drug-interactions-ddi-from-the-drugbank-with-java-9280b3f45b95
 
 ### List of JAR Dependencies Used
 
